@@ -1,7 +1,7 @@
 ## ReactJS based Web Application for an Fitness App
-This is a code repository of a React.js based web app for an fitness app. It has the functionaliy to choose exercise categories and specific 
+This is a code repository of a React.js based web app for an fitness app. It has the functionality to choose exercise categories and specific 
 muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from 
-Youtube, display similar exercises. This application is deployed and currently hosted [here](https://fitness-react-app.netlify.app/).
+Youtube and display similar exercises. This application is deployed and currently hosted [here](https://fitness-react-app.netlify.app/).
 
 ### Key Stacks
 1. Advance React
