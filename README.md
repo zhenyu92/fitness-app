@@ -10,7 +10,7 @@ Youtube, display similar exercises. This application is deployed and currently h
 4. RapidAPI
 
 ### Screenshot
-![image](https://github.com/zhenyu92/fitness_app/blob/main/screenshot.JPG)
+![image](https://github.com/zhenyu92/fitness_app/blob/main/screenshot.PNG)
 
 ### Credits
 This project is a part of the learning series delivered by [JavaScript Mastery](https://github.com/adrianhajdin).
