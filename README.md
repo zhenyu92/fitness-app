@@ -13,4 +13,4 @@ Youtube and display similar exercises. This application is deployed and currentl
 ![image](https://github.com/zhenyu92/fitness_app/blob/main/screenshot.PNG)
 
 ### Credits
-This project is a part of the learning series delivered by [JavaScript Mastery](https://github.com/adrianhajdin).
+This project is adapted from a tutorial from [JavaScript Mastery](https://github.com/adrianhajdin).
